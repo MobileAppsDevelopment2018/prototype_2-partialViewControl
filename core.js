@@ -25,7 +25,7 @@ function changeAppPage(gameScreen) {
 
 
 
-/*
+
 //Get content
 function getPartialView(screen) {
   var contentLoaded ;
@@ -39,9 +39,9 @@ function getPartialView(screen) {
 
 
 } //close getPartialView function
-*/
 
 
+/*
 function getPartialView(screen) {
 
 
@@ -73,3 +73,5 @@ function getPartialView(screen) {
 
 
 } //close getPartialView function
+
+*/
